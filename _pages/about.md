@@ -21,7 +21,9 @@ I was born in Warrane/Sydney, Australia, but grew up in a small village on the w
 
 ### News
 
-January 2024: I submitted my PhD thesis!{: .notice}
-December 2023: I joined the programme committee for CogSci 2024 and the Poster and Demo Track for IUI 2024.{: .notice}
+**January 2024:** I submitted my PhD thesis!
+{: .notice}
+**December 2023:** I joined the programme committee for CogSci 2024 and the Poster and Demo Track for IUI 2024.
+{: .notice}
 
 
