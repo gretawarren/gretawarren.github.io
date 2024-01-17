@@ -21,13 +21,13 @@ I was born in Warrane/Sydney, Australia, but grew up in a small village on the w
 
 ### News
 
-*January 2024:* I submitted my PhD thesis!
+* *January 2024:* I submitted my PhD thesis!
 
-*December 2023:* I joined the programme committee for CogSci 2024 and the Poster and Demo Track for IUI 2024.
+* *December 2023:* I joined the programme committee for CogSci 2024 and the Poster and Demo Track for IUI 2024.
 
-*August 2023:* Our paper on [Group Counterfactual Explanations](https://drive.google.com/file/d/1_N-r6CkkR9JRynhLEiTqctZGQefVxZns/view) was presented at the [IJCAI XAI workshop](https://sites.google.com/view/xai2023/home) in Macao.
+* *August 2023:* Our paper on [Group Counterfactual Explanations](https://drive.google.com/file/d/1_N-r6CkkR9JRynhLEiTqctZGQefVxZns/view) was presented at the [IJCAI XAI workshop](https://sites.google.com/view/xai2023/home) in Macao.
 
-*March 2023:* I presented our paper, [Categorical and Continuous Features in Counterfactual Explanations of AI Systems](https://dl.acm.org/doi/abs/10.1145/3581641.3584090), at IUI'23 in Warrane/Sydney, Australia!
+* *March 2023:* I presented our paper, [Categorical and Continuous Features in Counterfactual Explanations of AI Systems](https://dl.acm.org/doi/abs/10.1145/3581641.3584090), at IUI'23 in Warrane/Sydney, Australia!
 
 
 
