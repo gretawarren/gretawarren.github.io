@@ -13,7 +13,7 @@ Hi! I'm a final year Ph.D. candidate in the School of Computer Science, and [Ins
 I am supervised by [Prof. Mark Keane](https://people.ucd.ie/mark.keane) and [Prof. Ruth Byrne](https://reasoningandimagination.com/).
 My primary research interests are in eXplainable AI (XAI), explanatory reasoning, counterfactual thinking and human-AI interaction.
 
-My doctoral research examines the efficacy of counterfactual explanations in explainable AI, and aims to develop an approach to explaining AI system decisions grounded in psychological evidence and centred on the needs of their users.
+My doctoral research examines the efficacy of counterfactual explanations in explainable AI, and aims to develop a human-centred approach to explaining AI system decisions that is grounded in psychological evidence.
 
 ### Some more about me
 
