@@ -18,5 +18,5 @@ My doctoral research examines the efficacy of counterfactual explanations in exp
 ### Some more about me
 
 I have a B.A. (Hons) in Psychology from [Trinity College Dublin](https://psychology.tcd.ie/about/), and I worked as a research assistant in a neuroscience lab for a year prior to beginning my PhD. 
-I was born in Sydney, Australia, but grew up in a small village on the west coast of Ireland. I completed my primary and secondary level education in [Irish (Gaeilge)](https://en.wikipedia.org/wiki/Irish_language), the native and official language of Ireland, which I and [almost 2 million people](https://www.cso.ie/en/releasesandpublications/ep/p-cpsr/censusofpopulation2022-summaryresults/educationandirishlanguage/) can speak.
+I was born in Warrane/Sydney, Australia, but grew up in a small village on the west coast of Ireland. I completed my primary and secondary level education in [Irish (Gaeilge)](https://en.wikipedia.org/wiki/Irish_language), the native and official language of Ireland, which [almost 2 million people](https://www.cso.ie/en/releasesandpublications/ep/p-cpsr/censusofpopulation2022-summaryresults/educationandirishlanguage/) (including me!) can speak.
 
