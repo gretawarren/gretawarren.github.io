@@ -16,8 +16,8 @@ My primary research interests are in eXplainable AI (XAI), explanatory reasoning
 
 My doctoral research examines the efficacy of counterfactual explanations in explainable AI, and aims to develop a human-centred approach to explaining AI system decisions that is grounded in psychological evidence.
 
-I have a B.A. (Hons) in Psychology from [Trinity College Dublin](https://psychology.tcd.ie/about/), and I worked as a research assistant in a neuroscience lab prior to beginning my PhD. 
-I was born in Warrane/Sydney, Australia, but grew up in a small village on the west coast of Ireland. Along with [almost 2 million other people](https://www.cso.ie/en/releasesandpublications/ep/p-cpsr/censusofpopulation2022-summaryresults/educationandirishlanguage/), I speak [Irish (Gaeilge)](https://en.wikipedia.org/wiki/Irish_language), the native and official language of Ireland.
+I have a B.A. (Hons) in Psychology from [Trinity College Dublin](https://psychology.tcd.ie/about/), and I worked as a research assistant in [Trinity College Institute of Neuroscience](https://www.tcd.ie/Neuroscience/research/) prior to beginning my PhD. 
+I was born in Warrane/Sydney, Australia, but grew up in a small village on the west coast of Ireland. I also speak [Irish (Gaeilge)](https://en.wikipedia.org/wiki/Irish_language), the native and official language of Ireland (along with [almost 2 million other people](https://www.cso.ie/en/releasesandpublications/ep/p-cpsr/censusofpopulation2022-summaryresults/educationandirishlanguage/)!).
 
 ### News
 
@@ -27,7 +27,7 @@ I was born in Warrane/Sydney, Australia, but grew up in a small village on the w
 
 * *August 2023:* Our paper on [Group Counterfactual Explanations](https://drive.google.com/file/d/1_N-r6CkkR9JRynhLEiTqctZGQefVxZns/view) was presented at the [IJCAI XAI workshop](https://sites.google.com/view/xai2023/home) in Macao.
 
-* *March 2023:* I presented our paper, [Categorical and Continuous Features in Counterfactual Explanations of AI Systems](https://dl.acm.org/doi/abs/10.1145/3581641.3584090), at IUI'23 in Warrane/Sydney, Australia!
+* *March 2023:* I presented our paper, [Categorical and Continuous Features in Counterfactual Explanations of AI Systems](https://dl.acm.org/doi/abs/10.1145/3581641.3584090), at IUI'23 in Warrane/Sydney, Australia.
 
 
 
