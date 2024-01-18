@@ -10,13 +10,13 @@ redirect_from:
 
 ### About me
 
-Hi! I'm a final year Ph.D. candidate in the School of Computer Science, and [Insight Centre for Data Analytics](https://www.insight-centre.org/), University College Dublin. 
-I am supervised by [Prof. Mark Keane](https://people.ucd.ie/mark.keane) and [Prof. Ruth Byrne](https://reasoningandimagination.com/).
-My primary research interests are in eXplainable AI (XAI), explanatory reasoning, counterfactual thinking and human-AI interaction.
-
+Hi! I'm a final year Ph.D. candidate in the School of Computer Science, and [Insight Centre for Data Analytics](https://www.insight-centre.org/), University College Dublin, supervised by [Prof. Mark Keane](https://people.ucd.ie/mark.keane) and [Prof. Ruth Byrne](https://reasoningandimagination.com/).
 My doctoral research examines the efficacy of counterfactual explanations in explainable AI, and aims to develop a human-centred approach to explaining AI system decisions that is grounded in psychological evidence.
 
-I have a B.A. (Hons) in Psychology from [Trinity College Dublin](https://psychology.tcd.ie/about/), and I worked as a research assistant in [Trinity College Institute of Neuroscience](https://www.tcd.ie/Neuroscience/research/) prior to beginning my PhD. 
+My research is interdisciplinary and draws from cognitive psychology, computer science and human-computer interaction.
+My primary research interests are in **eXplainable AI (XAI)**, **explanatory reasoning**, **counterfactual thinking** and **human-AI interaction**.
+
+I hold a B.A. (Hons) in Psychology from [Trinity College Dublin](https://psychology.tcd.ie/about/), and I worked as a research assistant in [Trinity College Institute of Neuroscience](https://www.tcd.ie/Neuroscience/research/) prior to beginning my PhD. 
 I was born in Warrane/Sydney, Australia, but grew up in a small village on the west coast of Ireland. I also speak [Irish (Gaeilge)](https://en.wikipedia.org/wiki/Irish_language), the native and official language of Ireland (along with [almost 2 million other people](https://www.cso.ie/en/releasesandpublications/ep/p-cpsr/censusofpopulation2022-summaryresults/educationandirishlanguage/)!).
 
 ### News
