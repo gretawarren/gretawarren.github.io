@@ -10,7 +10,7 @@ redirect_from:
 
 ### About me
 
-I'm a Postdoc in the [CopeNLU](https://www.copenlu.com/) group at the [University of Copenhagen](https://www.ku.dk/english/). I work with [Prof. Isabelle Augenstein](https://isabelleaugenstein.github.io/) and [Prof. Irina Shklovski](https://miswritings.org/) on the ERC Starting Grant project ExplainYourself on Explainable and Robust Automatic Fact Checking, researching human-centred explanations for automated fact-checking.
+I'm a Postdoc in the [CopeNLU](https://www.copenlu.com/) group at the [University of Copenhagen](https://www.ku.dk/english/). I work with [Prof. Isabelle Augenstein](https://isabelleaugenstein.github.io/) and [Prof. Irina Shklovski](https://miswritings.org/) on the ERC-funded ExplainYourself project, researching human-centred explanations for automated fact-checking.
 
 My research is interdisciplinary and draws from cognitive psychology, computer science and human-computer interaction.
 My primary research interests are in **eXplainable AI (XAI)**, **human-AI interaction**, **fact-checking**, **explanatory reasoning** and **counterfactual thinking**.
