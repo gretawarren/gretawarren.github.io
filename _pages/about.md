@@ -10,16 +10,21 @@ redirect_from:
 
 ### About me
 
-Hi! I'm a final year Ph.D. candidate in the School of Computer Science, and [Insight Centre for Data Analytics](https://www.insight-centre.org/), University College Dublin, supervised by [Prof. Mark Keane](https://people.ucd.ie/mark.keane) and [Prof. Ruth Byrne](https://reasoningandimagination.com/).
-My doctoral research examines the efficacy of counterfactual explanations in explainable AI, and aims to develop a human-centred approach to explaining AI system decisions that is grounded in psychological evidence.
+I'm a Postdoc in the [CopeNLU](https://www.copenlu.com/) group at the [University of Copenhagen](https://www.ku.dk/english/). I work with [Prof. Isabelle Augenstein](https://isabelleaugenstein.github.io/) and [Prof. Irina Shklovski](https://miswritings.org/) on the ERC Starting Grant project ExplainYourself on Explainable and Robust Automatic Fact Checking, researching human-centred explanations for automated fact-checking.
 
 My research is interdisciplinary and draws from cognitive psychology, computer science and human-computer interaction.
-My primary research interests are in **eXplainable AI (XAI)**, **explanatory reasoning**, **counterfactual thinking** and **human-AI interaction**.
+My primary research interests are in **eXplainable AI (XAI)**, **human-AI interaction**, **fact-checking**, **explanatory reasoning** and **counterfactual thinking**.
+
+I completed my PhD Computer Science in the [Insight Centre for Data Analytics](https://www.insight-centre.org/), University College Dublin, supervised by [Prof. Mark Keane](https://people.ucd.ie/mark.keane) and [Prof. Ruth Byrne](https://reasoningandimagination.com/).
+My doctoral research examined the efficacy of counterfactual explanations in explainable AI, taking a human-centred approach to explaining AI system decisions that is grounded in psychological evidence.
 
 I hold a B.A. (Hons) in Psychology from [Trinity College Dublin](https://psychology.tcd.ie/about/), and I worked as a research assistant in [Trinity College Institute of Neuroscience](https://www.tcd.ie/Neuroscience/research/) prior to beginning my PhD. 
-I was born in Warrane/Sydney, Australia, but grew up in a small village on the west coast of Ireland. I also speak [Irish (Gaeilge)](https://en.wikipedia.org/wiki/Irish_language), the native and official language of Ireland (along with [almost 2 million other people](https://www.cso.ie/en/releasesandpublications/ep/p-cpsr/censusofpopulation2022-summaryresults/educationandirishlanguage/)!).
+I also speak [Irish (Gaeilge)](https://en.wikipedia.org/wiki/Irish_language), the native and official language of Ireland (along with [almost 2 million other people](https://www.cso.ie/en/releasesandpublications/ep/p-cpsr/censusofpopulation2022-summaryresults/educationandirishlanguage/)!).
 
 ### News
+* *March 2024:* I am very excited to have joined the ExplainYourself project at CopeNLU as a Postdoc.
+
+* *February 2024:* I passed my Viva Voce/PhD defence! 💫
 
 * *January 2024:* I submitted my PhD thesis!
 
