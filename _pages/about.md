@@ -15,7 +15,7 @@ I'm a Postdoc in the [CopeNLU](https://www.copenlu.com/) group at the [Universit
 My research is interdisciplinary and draws from cognitive psychology, computer science and human-computer interaction.
 My primary research interests are in **eXplainable AI (XAI)**, **human-AI interaction**, **fact-checking**, **explanatory reasoning** and **counterfactual thinking**.
 
-I completed my PhD Computer Science in the [Insight Centre for Data Analytics](https://www.insight-centre.org/), University College Dublin, supervised by [Prof. Mark Keane](https://people.ucd.ie/mark.keane) and [Prof. Ruth Byrne](https://reasoningandimagination.com/).
+I completed my PhD in Computer Science in the [Insight Centre for Data Analytics](https://www.insight-centre.org/), University College Dublin, supervised by [Prof. Mark Keane](https://people.ucd.ie/mark.keane) and [Prof. Ruth Byrne](https://reasoningandimagination.com/).
 My doctoral research examined the efficacy of counterfactual explanations in explainable AI, taking a human-centred approach to explaining AI system decisions that is grounded in psychological evidence.
 
 I hold a B.A. (Hons) in Psychology from [Trinity College Dublin](https://psychology.tcd.ie/about/), and I worked as a research assistant in [Trinity College Institute of Neuroscience](https://www.tcd.ie/Neuroscience/research/) prior to beginning my PhD. 
