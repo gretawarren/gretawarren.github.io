@@ -28,7 +28,7 @@ I also speak [Irish (Gaeilge)](https://en.wikipedia.org/wiki/Irish_language), th
  
 * *April 2024:* I joined the programme committee for [AIES 2024](https://www.aies-conference.com/2024/) and the [IJCAI 2024 XAI Workshop](https://sites.google.com/view/xai2024/).
 
-* *March 2024:* Very excited to have joined the [CopeNLU](https://www.copenlu.com/) group as a Postdoc. I'll be working on human-centred explainable automated fact-checking.
+* *March 2024:* I'm very excited to have joined the [CopeNLU](https://www.copenlu.com/) group as a Postdoc. I'll be working on human-centred explainable automated fact-checking.
 
 * *February 2024:* I successfully defended my thesis!
 
