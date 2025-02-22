@@ -27,7 +27,7 @@ I also speak [Irish (Gaeilge)](https://en.wikipedia.org/wiki/Irish_language), th
 
 
 ### News
-* *January 2025* Our paper, [Show Me the Work: Fact-Checkers’ Requirements for Explainable Automated Fact-Checking](https://arxiv.org/abs/2502.09083) was conditionally accepted to CHI'25! Check out the preprint [here](https://arxiv.org/abs/2502.09083).
+* *January 2025:* Our paper, [Show Me the Work: Fact-Checkers’ Requirements for Explainable Automated Fact-Checking](https://arxiv.org/abs/2502.09083) was conditionally accepted to CHI'25! Check out the preprint [here](https://arxiv.org/abs/2502.09083).
 
 * *December 2024:* The extended version of our IUI'23 paper, [Categorical and Continuous Features in Counterfactual Explanations of AI Systems](https://dl.acm.org/doi/10.1145/3673907) was published in ACM Transactions on Interactive Intelligent Systems.
 
