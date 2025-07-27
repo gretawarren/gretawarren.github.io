@@ -22,12 +22,17 @@ I hold a B.A. (Hons) in Psychology from [Trinity College Dublin](https://psychol
 I also speak [Irish (Gaeilge)](https://en.wikipedia.org/wiki/Irish_language), the native and official language of Ireland (along with [almost 2 million other people](https://www.cso.ie/en/releasesandpublications/ep/p-cpsr/censusofpopulation2022-summaryresults/educationandirishlanguage/)!).
 
 ### Upcoming Travel
-* I'll be in Japan in April for CHI'25! 🌸🌸🌸
+* I'll be in Vienna in July for ACL'25! 🎡🖼️🎭
+* ~~I'll be in Japan in April for CHI'25! 🌸🌸🌸~~
 
 
 
 ### News
-* *January 2025:* Our paper, [Show Me the Work: Fact-Checkers’ Requirements for Explainable Automated Fact-Checking](https://arxiv.org/abs/2502.09083) was conditionally accepted to CHI'25! Check out the preprint [here](https://arxiv.org/abs/2502.09083).
+* *May 2025:* Our paper, [Can Community Notes Replace Professional Fact-Checkers?](https://arxiv.org/abs/2502.14132) was accepted to ACL (main conference)!
+
+* *April 2025:* I presented our paper, [Show Me the Work: Fact-Checkers’ Requirements for Explainable Automated Fact-Checking](https://dl.acm.org/doi/full/10.1145/3706598.3713277) at CHI and our paper [Can Community Notes Replace Professional Fact-Checkers?](https://arxiv.org/abs/2502.14132) at the CHI [News Futures Workshop](https://sites.google.com/view/newsfutures/home?pli=1) in Yokohama, Japan!
+
+* *January 2025:* Our paper, [Show Me the Work: Fact-Checkers’ Requirements for Explainable Automated Fact-Checking](https://arxiv.org/abs/2502.09083) was accepted to CHI'25! Check out the preprint [here](https://arxiv.org/abs/2502.09083).
 
 * *December 2024:* The extended version of our IUI'23 paper, [Categorical and Continuous Features in Counterfactual Explanations of AI Systems](https://dl.acm.org/doi/10.1145/3673907) was published in ACM Transactions on Interactive Intelligent Systems.
 
