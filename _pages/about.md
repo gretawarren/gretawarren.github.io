@@ -22,7 +22,7 @@ I hold a B.A. (Hons) in Psychology from [Trinity College Dublin](https://psychol
 I also speak [Irish (Gaeilge)](https://en.wikipedia.org/wiki/Irish_language), the native language of Ireland (along with [almost 2 million other people](https://www.cso.ie/en/releasesandpublications/ep/p-cpsr/censusofpopulation2022-summaryresults/educationandirishlanguage/)!).
 
 ### Upcoming Travel
-* I'll be travelling just down the road to [EurIPS](https://eurips.cc/) in Copenhagen in December, where I'm giving an invited talk at the [Workshop on Metacognition in Generative AI](https://sites.google.com/view/metacognitiongenai/home?authuser=0)!
+* I'll be travelling just down the road to [EurIPS](https://eurips.cc/) in Copenhagen in December, where I'm giving an invited talk at the [Workshop on Metacognition in Generative AI](https://sites.google.com/view/metacognitiongenai/home?authuser=0)! 🦢🚲🇩🇰
 * ~~I'll be in Vienna in July for ACL'25! 🎡🖼️🎭~~
 * ~~I'll be in Japan in April for CHI'25! 🌸🌸🌸~~
 
