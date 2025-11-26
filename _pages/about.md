@@ -19,16 +19,17 @@ I completed my PhD in the [School of Computer Science](https://www.ucd.ie/cs/) a
 My doctoral research examined the efficacy of counterfactual explanations in explainable AI, taking a human-centred approach, grounded in cognitive psychology, to explaining AI system decisions.
 
 I hold a B.A. (Hons) in Psychology from [Trinity College Dublin](https://psychology.tcd.ie/about/), and I worked as a research assistant in [Trinity College Institute of Neuroscience](https://www.tcd.ie/Neuroscience/research/) prior to beginning my PhD. 
-I also speak [Irish (Gaeilge)](https://en.wikipedia.org/wiki/Irish_language), the native and official language of Ireland (along with [almost 2 million other people](https://www.cso.ie/en/releasesandpublications/ep/p-cpsr/censusofpopulation2022-summaryresults/educationandirishlanguage/)!).
+I also speak [Irish (Gaeilge)](https://en.wikipedia.org/wiki/Irish_language), the native language of Ireland (along with [almost 2 million other people](https://www.cso.ie/en/releasesandpublications/ep/p-cpsr/censusofpopulation2022-summaryresults/educationandirishlanguage/)!).
 
 ### Upcoming Travel
-* I'll be in Vienna in July for ACL'25! 🎡🖼️🎭
+* I'll be travelling just down the road to [EurIPS](https://eurips.cc/) in Copenhagen in December, where I'm giving an invited talk at the [Workshop on Metacognition in Generative AI](https://sites.google.com/view/metacognitiongenai/home?authuser=0)!
+* ~~I'll be in Vienna in July for ACL'25! 🎡🖼️🎭~~
 * ~~I'll be in Japan in April for CHI'25! 🌸🌸🌸~~
 
 
 
 ### News
-* *May 2025:* Our paper, [Can Community Notes Replace Professional Fact-Checkers?](https://arxiv.org/abs/2502.14132) was accepted to ACL (main conference)!
+* *May 2025:* Our paper, [Can Community Notes Replace Professional Fact-Checkers?](https://aclanthology.org/2025.acl-short.42/) was accepted to ACL (main conference)!
 
 * *April 2025:* I presented our paper, [Show Me the Work: Fact-Checkers’ Requirements for Explainable Automated Fact-Checking](https://dl.acm.org/doi/full/10.1145/3706598.3713277) at CHI and our paper [Can Community Notes Replace Professional Fact-Checkers?](https://arxiv.org/abs/2502.14132) at the CHI [News Futures Workshop](https://sites.google.com/view/newsfutures/home?pli=1) in Yokohama, Japan!
 
