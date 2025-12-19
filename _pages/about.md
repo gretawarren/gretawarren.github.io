@@ -30,11 +30,11 @@ I also speak [Irish (Gaeilge)](https://en.wikipedia.org/wiki/Irish_language), th
 
 
 ### News
-* *December 2025* I reviewed a lot of papers this year! I was honoured to receive special recognitions for outstanding reviews for CHI'26, IUI'26, and ACL Rolling Review ✨
+* *December 2025:* I reviewed a lot of papers this year! I was honoured to receive special recognitions for outstanding reviews for CHI'26, IUI'26, and ACL Rolling Review ✨
 
-* *December 2025* I gave an invited talk and participated in a panel discussion at the [EurIPS Workshop on Metacognition in Generative AI](https://sites.google.com/view/metacognitiongenai/home?authuser=0)!
+* *December 2025:* I gave an invited talk and participated in a panel discussion at the [EurIPS Workshop on Metacognition in Generative AI](https://sites.google.com/view/metacognitiongenai/home?authuser=0)!
 
-* *November 2025* I was awarded a [DAAD AInet Fellowship](https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/)! 🌟
+* *November 2025:* I was awarded a [DAAD AInet Fellowship](https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/)! 🌟
 
 * *July 2025:* I presented our paper, [Can Community Notes Replace Professional Fact-Checkers?](https://aclanthology.org/2025.acl-short.42/) at ACL in Vienna, Austria!
   
