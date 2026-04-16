@@ -22,14 +22,14 @@ My doctoral research examined the efficacy of counterfactual explanations in exp
 I hold a B.A. (Hons) in Psychology from [Trinity College Dublin](https://psychology.tcd.ie/about/), and I worked as a research assistant in [Trinity College Institute of Neuroscience](https://www.tcd.ie/Neuroscience/research/) prior to beginning my PhD. 
 I also speak [Irish (Gaeilge)](https://en.wikipedia.org/wiki/Irish_language), the native language of Ireland (along with [almost 2 million other people](https://www.cso.ie/en/releasesandpublications/ep/p-cpsr/censusofpopulation2022-summaryresults/educationandirishlanguage/)!).
 
-### Upcoming Travel
-* ~~I'll be travelling just down the road to [EurIPS](https://eurips.cc/) in Copenhagen in December, where I'm giving an invited talk at the [Workshop on Metacognition in Generative AI](https://sites.google.com/view/metacognitiongenai/home?authuser=0)! 🦢🚲🇩🇰~~
-* ~~I'll be in Vienna in July for ACL'25! 🎡🖼️🎭~~
-* ~~I'll be in Japan in April for CHI'25! 🌸🌸🌸~~
+### Upcoming Travel and Talks
+* I'm giving a talk on my work on human-centred explainability at the [Pioneer Centre for AI](https://www.aicentre.dk/events/20260424-last-fridays-talks-speech-language) in Copenhagen on April 24th! 🏰
 
 
 
 ### News
+* *April 2026:* Our paper, [Explaining Sources of Uncertainty in Automated Fact-Checking](https://arxiv.org/abs/2505.17855) was accepted to ACL (main conference)!
+
 * *December 2025:* I reviewed a lot of papers this year! I was honoured to receive special recognitions for outstanding reviews for CHI'26, IUI'26, and ACL Rolling Review ✨
 
 * *December 2025:* I gave an invited talk and participated in a panel discussion at the [EurIPS Workshop on Metacognition in Generative AI](https://sites.google.com/view/metacognitiongenai/home?authuser=0)!
