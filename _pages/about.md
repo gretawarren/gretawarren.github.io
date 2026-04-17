@@ -24,11 +24,12 @@ I also speak [Irish (Gaeilge)](https://en.wikipedia.org/wiki/Irish_language), th
 
 ### Upcoming Travel and Talks
 * I'm giving a talk on my work on human-centred explainability at the [Pioneer Centre for AI](https://www.aicentre.dk/events/20260424-last-fridays-talks-speech-language) in Copenhagen on April 24th! 🏰
+* I'll be in Montréal in late June to attend FAccT'26! 🍁 
 
 
 
 ### News
-* *April 2026:* Our paper, [Explaining Sources of Uncertainty in Automated Fact-Checking](https://arxiv.org/abs/2505.17855) was accepted to ACL (main conference)!
+* *April 2026:* Two papers accepted recently! One at FAccT'26: [Show me the evidence: Evaluating the role of evidence and natural language explanations in AI-supported fact-checking](https://arxiv.org/abs/2601.11387) and one at ACL (main conference): [Explaining Sources of Uncertainty in Automated Fact-Checking](https://arxiv.org/abs/2505.17855)!
 
 * *December 2025:* I reviewed a lot of papers this year! I was honoured to receive special recognitions for outstanding reviews for CHI'26, IUI'26, and ACL Rolling Review ✨
 
