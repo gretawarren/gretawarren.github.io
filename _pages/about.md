@@ -22,9 +22,9 @@ My doctoral research examined the efficacy of counterfactual explanations in exp
 I hold a B.A. (Hons) in Psychology from [Trinity College Dublin](https://psychology.tcd.ie/about/), and I worked as a research assistant in [Trinity College Institute of Neuroscience](https://www.tcd.ie/Neuroscience/research/) prior to beginning my PhD. 
 I also speak [Irish (Gaeilge)](https://en.wikipedia.org/wiki/Irish_language), the native language of Ireland (along with [almost 2 million other people](https://www.cso.ie/en/releasesandpublications/ep/p-cpsr/censusofpopulation2022-summaryresults/educationandirishlanguage/)!).
 
-### Upcoming Travel and Talks
-* I'm giving a talk on my work on human-centred explainability at the [Pioneer Centre for AI](https://www.aicentre.dk/events/20260424-last-fridays-talks-speech-language) in Copenhagen on April 24th! 🏰
-* I'll be in Montréal in late June to attend FAccT'26! 🍁 
+### Travel and Talks 2026
+~~* I'm giving a talk on my work on human-centred explainability at the [Pioneer Centre for AI](https://www.aicentre.dk/events/20260424-last-fridays-talks-speech-language) in Copenhagen on April 24th! 🏰~~
+~~* I'll be in Montréal in late June to attend FAccT'26! 🍁~~
 
 
 
