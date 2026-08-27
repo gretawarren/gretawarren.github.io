@@ -29,6 +29,10 @@ I also speak [Irish (Gaeilge)](https://en.wikipedia.org/wiki/Irish_language), th
 
 
 ### News
+* *July 2026:* Two papers accepted recently! [The Heterogeneous Safety Impacts of Benign Multilingual Fine-Tuning](https://openreview.net/forum?id=5M6NoV6Hs6) was published at ICML'26, and [Explaining Time Series Classifications Counterfactually: A Human-Centered Evaluation](https://www.researchgate.net/profile/Eoin-Delaney-2/publication/406982180_Explaining_Time_Series_Classifications_Counterfactually_A_Human-Centered_Evaluation/links/6a2bdd9e3a0dbb76335bda64/Explaining-Time-Series-Classifications-Counterfactually-A-Human-Centered-Evaluation.pdf) was accepted to AIES'26!
+
+* *June 2026:* I presented our paper, [Show me the evidence: Evaluating the role of evidence and natural language explanations in AI-supported fact-checking](https://dl.acm.org/doi/abs/10.1145/3805689.3812358) at FAccT'26 in beautiful Montréal, Canada! I also visited [Mila](https://mila.quebec/en) while I was in town 🍁⚜️
+
 * *April 2026:* Two papers accepted recently! One at FAccT'26: [Show me the evidence: Evaluating the role of evidence and natural language explanations in AI-supported fact-checking](https://arxiv.org/abs/2601.11387) and one at ACL (main conference): [Explaining Sources of Uncertainty in Automated Fact-Checking](https://arxiv.org/abs/2505.17855)!
 
 * *December 2025:* I reviewed a lot of papers this year! I was honoured to receive special recognitions for outstanding reviews for CHI'26, IUI'26, and ACL Rolling Review ✨
