@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2026-06-25-FAccT_2026
 excerpt: ''
 date: 2026-06-25
-venue: "Proceedings of the 2026 ACM Conference on Fairness, Accountability, and Transparency"
+venue: "Proceedings of the 2026 ACM Conference on Fairness, Accountability, and Transparency (FAccT'26)"
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3805689.3812358'
 citation: "Greta Warren, Jingyi Sun, Irina Shklovski, and Isabelle Augenstein. 2026. Show me the evidence: Evaluating the role of evidence and natural language explanations in AI-supported fact-checking. In Proceedings of the 2026 ACM Conference on Fairness, Accountability, and Transparency (FAccT '26). Association for Computing Machinery, New York, NY, USA, 4899–4934. https://doi.org/10.1145/3805689.3812358"
 ---
