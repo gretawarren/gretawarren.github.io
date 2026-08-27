@@ -1,0 +1,12 @@
+---
+title: "The Heterogeneous Safety Impacts of Benign Multilingual Fine-Tuning"
+collection: publications
+permalink: /publication/2026-07-06-ICML_2026
+excerpt: ''
+date: 2026-07-06
+venue: "Forty-third International Conference on Machine Learning (ICML'26)"
+paperurl: 'https://openreview.net/forum?id=5M6NoV6Hs6'
+citation: "Hawkins, W., Rawal, K., Rystrøm, J., Tsirtsis, S., Fu, Z., Warren, G., Brown, R., Delaney, E., Wachter, S., Mittelstadt, B. & Russell, C. (2026). The Heterogeneous Safety Impacts of Benign Multilingual Fine-Tuning. https://openreview.net/forum?id=5M6NoV6Hs6"
+
+[Download paper here](http://gretawarren.github.io/files/ICML2026.pdf)
+Recommended citation: Hawkins, Will, Rawal, Kaivalya, Rystrøm, Jonathan, Tsirtsis, Stratis, Fu, Zihao, Warren, Greta, Brown, Ryan, Delaney, Eoin, Wachter, Sandra, Mittelstadt, Brent & Russell, Chris (2026). The Heterogeneous Safety Impacts of Benign Multilingual Fine-Tuning. In Proceedings of the Forty-third International Conference on Machine Learning. Seoul, Republic of Korea. https://openreview.net/forum?id=5M6NoV6Hs6
