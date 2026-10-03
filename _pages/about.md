@@ -11,7 +11,7 @@ redirect_from:
 ### About me
 
 I'm a Postdoc in the [CopeNLU](https://www.copenlu.com/) group at the Department of Computer Science, [University of Copenhagen](https://www.ku.dk/english/). I am also affiliated with the [Pioneer Centre for Artificial Intelligence](https://www.aicentre.dk/).
-Currently, I work with [Prof. Isabelle Augenstein](https://isabelleaugenstein.github.io/) and [Prof. Irina Shklovski](https://miswritings.org/) on the ERC-funded ExplainYourself project, researching human-centred explanations for automated fact-checking.
+Currently, I work with [Prof. Isabelle Augenstein](https://isabelleaugenstein.github.io/) and [Prof. Irina Shklovski](https://miswritings.org/) on   human-centred and transparent retrieval-augmented generation for LLMs, funded by a DFF Research Grant.
 
 My research in human-AI interaction is interdisciplinary and draws from artificial intelligence, human-computer interaction, and cognitive psychology. In my work, I examine the design and evaluation of explainable AI systems and how they can be designed to support human reasoning in complex decision-making tasks, such as identifying misinformation.
 My primary research interests are in **eXplainable AI (XAI)**, **human-AI interaction**, **fact-checking** and **explanatory reasoning**.
@@ -23,13 +23,17 @@ I hold a B.A. (Hons) in Psychology from [Trinity College Dublin](https://psychol
 I also speak [Irish (Gaeilge)](https://en.wikipedia.org/wiki/Irish_language), the native language of Ireland (along with [almost 2 million other people](https://www.cso.ie/en/releasesandpublications/ep/p-cpsr/censusofpopulation2022-summaryresults/educationandirishlanguage/)!).
 
 ### Travel and Talks 2026
-~~* I'm giving a talk on my work on human-centred explainability at the [Pioneer Centre for AI](https://www.aicentre.dk/events/20260424-last-fridays-talks-speech-language) in Copenhagen on April 24th! 🏰~~
+* I'm giving an invited talk at the [InterSynth Lab](https://intersynth.ai/about/) Seminar Series on November 26!
+  
+* Gave a talk on my work on human-centred explainability at the [Pioneer Centre for AI](https://www.aicentre.dk/events/20260424-last-fridays-talks-speech-language) in Copenhagen on April 24th! 🏰
 
-~~* I'll be in Montréal in late June to attend FAccT'26! 🍁~~
+* Visited Montréal in June to attend FAccT'26! 🍁 You can watch a recording of my talk [here](https://www.youtube.com/watch?v=fasAExA0P2s).
 
 
 
 ### News
+* *September 2026:* Our paper, *Promises and Pitfalls of Community Moderation on Social Media*, was accepted for publication in *Proceedings of the National Academy of Sciences (PNAS)*! Stay tuned for the published paper.
+
 * *July 2026:* Two papers accepted recently! [The Heterogeneous Safety Impacts of Benign Multilingual Fine-Tuning](https://openreview.net/forum?id=5M6NoV6Hs6) was published at ICML'26, and [Explaining Time Series Classifications Counterfactually: A Human-Centered Evaluation](https://www.researchgate.net/profile/Eoin-Delaney-2/publication/406982180_Explaining_Time_Series_Classifications_Counterfactually_A_Human-Centered_Evaluation/links/6a2bdd9e3a0dbb76335bda64/Explaining-Time-Series-Classifications-Counterfactually-A-Human-Centered-Evaluation.pdf) was accepted to AIES'26!
 
 * *June 2026:* I presented our paper, [Show me the evidence: Evaluating the role of evidence and natural language explanations in AI-supported fact-checking](https://dl.acm.org/doi/abs/10.1145/3805689.3812358) at FAccT'26 in beautiful Montréal, Canada! I also visited [Mila](https://mila.quebec/en) while I was in town 🍁⚜️
