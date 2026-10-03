@@ -24,10 +24,10 @@ I also speak [Irish (Gaeilge)](https://en.wikipedia.org/wiki/Irish_language), th
 
 ### Travel and Talks 2026
 * I'm giving an invited talk at the [InterSynth Lab](https://intersynth.ai/about/) Seminar Series on November 26!
-  
-* Gave a talk on my work on human-centred explainability at the [Pioneer Centre for AI](https://www.aicentre.dk/events/20260424-last-fridays-talks-speech-language) in Copenhagen on April 24th! 🏰
 
 * Visited Montréal in June to attend FAccT'26! 🍁 You can watch a recording of my talk [here](https://www.youtube.com/watch?v=fasAExA0P2s).
+
+* Gave a talk on my work on human-centred explainability at the [Pioneer Centre for AI](https://www.aicentre.dk/events/20260424-last-fridays-talks-speech-language) in Copenhagen on April 24th! 🏰
 
 
 
