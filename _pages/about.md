@@ -32,6 +32,8 @@ I also speak [Irish (Gaeilge)](https://en.wikipedia.org/wiki/Irish_language), th
 
 
 ### News
+* *October 2026:* I'm very excited to be co-organising *HCI+NLP: Fifth Workshop on Bridging Human-Computer Interaction and Natural Language Processing* which will be co-located with [NAACL'27](https://2027.naacl.org/) in San Francisco! 🚋
+
 * *September 2026:* Our paper, *Promises and Pitfalls of Community Moderation on Social Media*, was accepted for publication in *Proceedings of the National Academy of Sciences (PNAS)*! Stay tuned for the published paper.
 
 * *July 2026:* Two papers accepted recently! [The Heterogeneous Safety Impacts of Benign Multilingual Fine-Tuning](https://openreview.net/forum?id=5M6NoV6Hs6) was published at ICML'26, and [Explaining Time Series Classifications Counterfactually: A Human-Centered Evaluation](https://www.researchgate.net/profile/Eoin-Delaney-2/publication/406982180_Explaining_Time_Series_Classifications_Counterfactually_A_Human-Centered_Evaluation/links/6a2bdd9e3a0dbb76335bda64/Explaining-Time-Series-Classifications-Counterfactually-A-Human-Centered-Evaluation.pdf) was accepted to AIES'26!
